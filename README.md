@@ -11,4 +11,4 @@ tags.
 ## Contribution
 - Send me an e-mail: quentin@bourgeois.eu
 - Contact the development team via [the official Google group](https://groups.google.com/forum/?hl=en#!forum/Mooltipass)
-- mooltipass chan on Freenode
+- #mooltipass chan on Freenode
